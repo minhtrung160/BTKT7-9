@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NMT_Cau1</string>
+    <string name="message_dialog_exit">bạn muốn thoát không?</string>
+    <string name="message_dialog_exit_title">Thông báo</string>
+    <string name="message_dialog_ok">OK</string>
+    <string name="message_dialog_cancel">Cancel</string>
+</resources>
